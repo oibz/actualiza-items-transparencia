@@ -6,7 +6,7 @@
 
 2.- Instalar Selenium mediante el comando <code>pip install selenium</code>
 
-3.- Dentro del script <b>actualizar_items_transparencia.py</b> se deben cambiar los datos del usuario y la contraseña del portal
+3.- Dentro del script <b>actualizar_items_transparencia.py</b> se deben cambiar los datos del <b>usuario</b> y la <b>contraseña</b> del portal
 
 4.- Ejecutar desde un cmd dentro de la carpeta con el comando <code>python actualizar_items_transparencia.py</code>
 
