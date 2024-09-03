@@ -1,16 +1,20 @@
 # actualiza-items-transparencia
+
  Actualiza mediante python items en Portal de Transparencia
 
-1.- Instalar Selenium mediante el comando pip install selenium
+1.- Tener instalado Python
 
-2.- Dentro del script actualizar_items_transparencia.py se deben cambiar los datos del usuario y la contraseña del portal
+2.- Instalar Selenium mediante el comando <code>pip install selenium</code>
 
-3.- Ejecutar desde un cmd dentro de la carpeta automatiza_transparencia con el comando python actualizar_items_transparencia.py
+3.- Dentro del script <b>actualizar_items_transparencia.py</b> se deben cambiar los datos del <b>usuario</b> y la <b>contraseña</b> del portal
 
-4.- Listo!
+4.- Ejecutar desde un cmd dentro de la carpeta con el comando <code>python actualizar_items_transparencia.py</code>
+
+5.- Listo!
+
+<a href="https://github.com/oibz/actualiza-items-transparencia/archive/refs/heads/main.zip">Descarga</a>
 
 
-
-Oscar Ibáñez Tagle
-oscar.ibanez@curarrehue.cl
+Oscar Ibáñez Tagle<br>
+oscar.ibanez@curarrehue.cl<br>
 Municipalidad de Curarrehue
