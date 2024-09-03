@@ -12,6 +12,7 @@
 
 5.- Listo!
 
+<a href="https://github.com/oibz/actualiza-items-transparencia/archive/refs/heads/main.zip">Descarga</a>
 
 
 Oscar Ibáñez Tagle<br>
